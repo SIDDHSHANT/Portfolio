@@ -1,0 +1,17 @@
+body{
+    font-family: 'Roboto',sans-serif;
+    scroll-behavior: smooth;
+
+}
+.navbar-brand
+{
+    font-weight: bold;
+}
+section
+{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+/* header{
+    background-image: linear-gradient(rgba(0,0,0,0,6),rgba(0,0,0,0,6),url(/images/LUCES\ GAMER.jpeg) no-repeat cecnter center/cover);
+} */
